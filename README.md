@@ -246,9 +246,9 @@ We welcome contributions to SolCure! Please read our [Contributing Guidelines](C
 ## 📞 Support
 
 ### For Users
-- 📧 Email: [support@solcure.com](mailto:support@solcure.com)
-- 📱 Phone: +263 123 456 789
-- 💬 WhatsApp: +263 123 456 789
+-- 📧 Email: [info@dubzig.co.zw](mailto:info@dubzig.co.zw)
+- 📱 Phone: +263 71 786 5911
+- 💬 WhatsApp: +263 71 786 5911
 - 🕒 Available: 24/7 Emergency Support
 
 ### For Developers
